@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d0f004-47ae-44cb-8d49-1e796a8d88a0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/DailyRepeatTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/DailyRepeatTests.java" afterDir="false" />
@@ -11,6 +12,14 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vytrackautomationMuhabbatVersion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/InnasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 98e9fe13abd803fdd8cd57c3fb6b6f45a4ad1c39
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +29,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -140,6 +150,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 98e9fe13abd803fdd8cd57c3fb6b6f45a4ad1c39
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -154,6 +166,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/vytrack/pages/CreateCalEventPage.java" />
       </list>
     </option>
+=======
+>>>>>>> 98e9fe13abd803fdd8cd57c3fb6b6f45a4ad1c39
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -181,6 +196,7 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -324,6 +340,11 @@
       </pane>
       <pane id="PackagesPane" />
     </panes>
+=======
+  <component name="ProjectId" id="1PR4Llm1S9fA7ikQYwmWoxcx9fp" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 98e9fe13abd803fdd8cd57c3fb6b6f45a4ad1c39
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -491,6 +512,7 @@
       <configuration name="DailyRepeatTests.test5" configurationId="TestNG" />
     </history-entry>
   </component>
+<<<<<<< HEAD
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -710,5 +732,17 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 98e9fe13abd803fdd8cd57c3fb6b6f45a4ad1c39
   </component>
 </project>
