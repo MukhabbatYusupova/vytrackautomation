@@ -33,7 +33,16 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1PZSpElXBuf5V3TWkTp7JvkF9U9" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="326" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+>>>>>>> a6001c14275c0499fcf0798aa484ab5e52d02db3
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
