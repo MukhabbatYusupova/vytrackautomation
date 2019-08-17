@@ -23,7 +23,7 @@ public class LogInPage {
     public void login(String usernameStr, String passwordStr) {
         username.sendKeys(usernameStr);
         password.sendKeys(passwordStr);
-        submit.click();
+        submit.click();// Esra Added
     }
 
 // local change from home
