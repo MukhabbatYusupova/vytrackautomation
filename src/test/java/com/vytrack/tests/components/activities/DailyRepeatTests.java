@@ -102,7 +102,7 @@ public class DailyRepeatTests extends TestBase {
     }
 @Test (description = "Daily repeat option, Ends, error messages")
     public void test6(){
-
+    System.out.println("for git");
 }
 
 }
