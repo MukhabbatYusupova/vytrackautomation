@@ -1,68 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="74d0f004-47ae-44cb-8d49-1e796a8d88a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>actions</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="797" />
-  </component>
-  <component name="ProjectId" id="1PR4Llm1S9fA7ikQYwmWoxcx9fp" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.vytrack.utilities" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.MenuOptionTest.menuOptionDriver">
-    <configuration name="DailyRepeatTests.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.InnasTest">
+    <configuration name="InnasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.InnasTest" />
+      <module name="vytrackautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DailyRepeatTests.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vytrackautomation" />
       <extension name="coverage">
         <pattern>
@@ -72,78 +24,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.vytrack.tests.components.activities" />
       <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.components.activities.DailyRepeatTests" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MenuOptionTest.menuOptionDriver" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vytrackautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.MenuOptionTest" />
-      <option name="METHOD_NAME" value="menuOptionDriver" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageAccessTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vytrackautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.PageAccessTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageAccessTest.vehicleContractsStoreManager" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vytrackautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.PageAccessTest" />
-      <option name="METHOD_NAME" value="vehicleContractsStoreManager" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageAccessTest.vehicleContractsTruckDriver" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vytrackautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.PageAccessTest" />
-      <option name="METHOD_NAME" value="vehicleContractsTruckDriver" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,57 +34,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MenuOptionTest.menuOptionDriver" />
-        <item itemvalue="TestNG.PageAccessTest.vehicleContractsTruckDriver" />
-        <item itemvalue="TestNG.PageAccessTest" />
-        <item itemvalue="TestNG.PageAccessTest.vehicleContractsStoreManager" />
-        <item itemvalue="TestNG.DailyRepeatTests.test3" />
+        <item itemvalue="Application.InnasTest" />
+        <item itemvalue="TestNG.DailyRepeatTests.test4" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="74d0f004-47ae-44cb-8d49-1e796a8d88a0" name="Default Changelist" comment="" />
-      <created>1562770844099</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1562770844099</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="PageAccessTest_vehicleContractsStoreManager - 2019.08.02 at 16h 12m 02s.xml">
-      <configuration name="PageAccessTest.vehicleContractsStoreManager" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest - 2019.08.02 at 16h 14m 55s.xml">
-      <configuration name="PageAccessTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest_vehicleContractsTruckDriver - 2019.08.02 at 16h 17m 13s.xml">
-      <configuration name="PageAccessTest.vehicleContractsTruckDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest_vehicleContractsTruckDriver - 2019.08.02 at 16h 18m 07s.xml">
-      <configuration name="PageAccessTest.vehicleContractsTruckDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest_vehicleContractsTruckDriver - 2019.08.02 at 16h 32m 22s.xml">
-      <configuration name="PageAccessTest.vehicleContractsTruckDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest - 2019.08.02 at 16h 33m 11s.xml">
-      <configuration name="PageAccessTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest_vehicleContractsTruckDriver - 2019.08.02 at 16h 38m 39s.xml">
-      <configuration name="PageAccessTest.vehicleContractsTruckDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageAccessTest_vehicleContractsTruckDriver - 2019.08.02 at 16h 39m 03s.xml">
-      <configuration name="PageAccessTest.vehicleContractsTruckDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MenuOptionTest_menuOptionDriver - 2019.08.02 at 16h 45m 38s.xml">
-      <configuration name="MenuOptionTest.menuOptionDriver" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MenuOptionTest_menuOptionDriver - 2019.08.02 at 16h 51m 53s.xml">
-      <configuration name="MenuOptionTest.menuOptionDriver" configurationId="TestNG" />
-    </history-entry>
   </component>
 </project>

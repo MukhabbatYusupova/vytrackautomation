@@ -17,7 +17,7 @@ LogInPage logInPage;
     public void menuOptionDriver()  {
      logInPage = new LogInPage();
      logInPage.login(ConfigurationReader.get("truckDriver"), ConfigurationReader.get("password") );
-extentTest= report.createTest("Menu option Modules");
+        extentTest= report.createTest("Menu option Modules");
 // TODO FLEET:
     extentTest.info("Fleet Module");
     VytrackUtils.selectMenuOption(driver, "Fleet", "Vehicles");
@@ -26,7 +26,7 @@ extentTest= report.createTest("Menu option Modules");
 
     wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[@class='oro-subtitle']")));
     assertEquals(driver.findElement(By.xpath("//h1[@class='oro-subtitle']")).getText(),"Cars");
-extentTest.info("Customers Module");
+        extentTest.info("Customers Module");
  //TODO CUSTOMERS
     VytrackUtils.selectMenuOption(driver, "Customers", "Accounts");
     wait.until(ExpectedConditions.titleIs("Accounts - Customers"));
@@ -44,7 +44,7 @@ extentTest.info("Customers Module");
 
     waitForVisibility(driver.findElement(By.xpath("//h1[@class='oro-subtitle']")),5);
     assertEquals(driver.findElement(By.xpath("//h1[@class='oro-subtitle']")).getText(), "Contacts");
-extentTest.info("Activities Module");
+        extentTest.info("Activities Module");
  //TODO ACTIVITIES:
     selectMenuOption(driver, "Activities", "Calendar Events");
 
