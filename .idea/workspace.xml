@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42de9b78-f2ad-4012-bb5c-daf9e2378705" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vytrackautomation2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vytrackautomation2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vytrackautomation2.iml" afterDir="false" />
+>>>>>>> e9f7950acc16116b3817b85edc9eccb52eb0575f
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/DailyRepeatTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/DailyRepeatTests.java" afterDir="false" />
     </list>
@@ -17,6 +22,16 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> e9f7950acc16116b3817b85edc9eccb52eb0575f
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,12 +42,20 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="1PZSpElXBuf5V3TWkTp7JvkF9U9" />
+=======
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="53" />
+    <option name="y" value="326" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1PZSlFCQr5nzcf2T1dBcNZxeby8" />
+=======
+>>>>>>> a6001c14275c0499fcf0798aa484ab5e52d02db3
+>>>>>>> e9f7950acc16116b3817b85edc9eccb52eb0575f
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />

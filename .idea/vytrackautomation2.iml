@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module type="JAVA_MODULE" version="4" />
+=======
+<module type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="Maven" />
+</module>
+>>>>>>> e9f7950acc16116b3817b85edc9eccb52eb0575f
