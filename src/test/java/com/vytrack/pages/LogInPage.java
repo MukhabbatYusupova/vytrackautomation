@@ -25,6 +25,6 @@ public class LogInPage {
         password.sendKeys(passwordStr);
         submit.click();
     }
-
+ // this is my change
 
 }
