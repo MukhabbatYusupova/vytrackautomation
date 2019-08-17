@@ -25,6 +25,10 @@ public class LogInPage {
         password.sendKeys(passwordStr);
         submit.click();
     }
+
 // local change from home
+
+ // this is my change
+
 
 }
